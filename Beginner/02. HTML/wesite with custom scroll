@@ -102,7 +102,7 @@ justify-content: center;
 }
     
 #games{
-  font-size: 38px;
+  font-size: 40px;
 display: grid;
 grid-template-columns:calc((90%)/2) calc((90%)/2);
 grid-gap: 30px; 
@@ -126,7 +126,7 @@ form{
   width: 97%;
   height: 600px;
   margin-left: 3%;
-  margin-top: 3%;
+  margin-top: 3.5%;
   font-size: 18px;
   text-align: center;
 }
@@ -178,9 +178,9 @@ button[type=submit]:hover{
 
 <div id="bio">
   <h2 align="center">Hallam Kalam ...</h2>
-  <center>These place is created to take a <br>relax from
+  <center><i>These place is created to take a <br>relax from
    your boring<br> life and 
- have a fun.</center>
+ have a fun.</i></center>
 </div>
 <br>
 <div id="gallery">
